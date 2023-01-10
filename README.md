@@ -35,7 +35,10 @@ Esses projetos foram desenvolvidos com as seguintes tecnologias:
 ### Nível 2
 
 <strong>Projeto 1:</strong> Móveis Customizados <br>
-<strong>Desafio 1:</strong> Móveis Customizados
+<strong>Projeto 2:</strong> Treine.me <br>
+
+<strong>Desafio 1:</strong> Móveis Customizados <br>
+<strong>Desafio 2:</strong> Treine.me
 
 ## 🔖 Layouts
 
@@ -43,7 +46,9 @@ Esses projetos foram desenvolvidos com as seguintes tecnologias:
 
 ### Nível 2
 
-Projeto 1: [Móveis Customizados](https://www.figma.com/file/FzvFqC2nc8biYRB5X6BEl7/Explorer---Projeto-01?node-id=0%3A1&t=8C0xDKA8lT71I7PW-0)
+Projeto e Desafio 1: [Móveis Customizados](https://www.figma.com/file/FzvFqC2nc8biYRB5X6BEl7/Explorer---Projeto-01?node-id=0%3A1&t=8C0xDKA8lT71I7PW-0)
+
+Projeto e Desafio 2: [Treine.me](https://www.figma.com/file/0CJn8GRMWqv709WzWcycC5/Explorer---Projeto-02?t=8C0xDKA8lT71I7PW-0)
 
 ## 📝 Licença
 
